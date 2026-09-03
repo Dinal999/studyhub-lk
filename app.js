@@ -9,7 +9,7 @@
 // IMPORTANT:
 // Put your NEW Gemini API key here.
 // Do NOT use the key that was exposed in chat.
-const GEMINI_API_KEY = "AQ.Ab8RN6L3IhKYa6aVw2YkLF8o7EuvB68yycqKlI6mvTwp5PUOkw";
+const GEMINI_API_KEY = "AQ.Ab8RN6K7Rik7CwmgqTrixLuEdY9oBgD6OZJGS51bF3Q3BDUueA";
 
 
 // ==========================================
